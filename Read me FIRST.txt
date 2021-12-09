@@ -1,0 +1,7 @@
+Note 1: You need to install the node-modules on your computer becuae I was not able to upload it with the project file, becuae its
+a large file to upload on github even I tried to zip it but it did not work. Also, you will find the node-modules file in github but it does
+not contain all files. 
+
+Note 2: You have to install the "uuid" by writeing in the terminal (npm instal uuid).
+
+Note 3: To run the project write in the browser: localhost:3000. 
